@@ -1,0 +1,9 @@
+Package: com.ac3xx.chromeurl
+Name: ChromeURL
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Fixing Google Chrome's keyboard to be URL friendly.
+Maintainer: ac3xx
+Author: ac3xx
+Section: Tweaks
