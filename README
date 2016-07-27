@@ -1,5 +1,4 @@
 Removes the accessory view from Chrome for iOS and changes keyboard type to UIKeyboardTypeURL.
-No requirements apart from Theos/Logos, simply clone and make.
+No requirements apart from Theos/Logos, simply **clone** and **make**.
 
 ~ac3xx and Maximus
-
